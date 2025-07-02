@@ -1,0 +1,1 @@
+Devido ao tamanho do arquivo dos checkpoints da rede (>100MB), não é possível adicioná-lo ao github. A melhor opção é acessar o site https://huggingface.co/MONAI/wholeBrainSeg_Large_UNEST_segmentation/tree/main/models e fazer o download diretamente por lá
